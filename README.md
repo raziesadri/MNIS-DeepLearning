@@ -1,1 +1,1 @@
-# MNIS-DeepLearning
+# MNIST-DeepLearning
