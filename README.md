@@ -5,5 +5,5 @@ The task is to classify a given image of a handwritten digit into one of 10 clas
 In this journey for diving in to deep learning, we start with this problem, so we had created two deep learning model the first is a sequential model with fully connected layers(MNIST-FC), and another file that named MNIST-CONV is a API functional model that is created with convolutional layers!
 
 
-##contact
+## contact
 raziesadri72@gmail.com
